@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Navigation Frames</title>
+    </head>
+   
+      <frameset cols="200,*">
+ 
+  <frame src="sidebar.html" name="navFrame"/>
+<frame src="content.html" name="contentFrame"/>
+</frameset>
+   
+</html>
